@@ -12,5 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ![portfolio-new-world](https://user-images.githubusercontent.com/43040195/166667008-51ed8d48-f2d4-4e90-84e0-413470affef6.jpg)
 
+![portfolio-sev-zero](https://user-images.githubusercontent.com/43040195/166671114-eba0fa4e-baa1-46a2-9b90-c1b28fd384f1.jpg)
+
 ![portfolio-sunage](https://user-images.githubusercontent.com/43040195/166669250-02b34d35-aba3-4d28-9b55-b873e3385090.jpg)
 
