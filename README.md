@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Julio Gorgé
 
+I'm a Software Engineer living in Germany. I have worked in and out of the video games industry since 2005. I have a large breadth of experience in systems engineering, dev ops, graphics programming and even management (I ran a small games studio from 2008 to 2011).
+
 📫 How to reach me: https://www.linkedin.com/in/julio-g-a84b76127/
 
 <!---
