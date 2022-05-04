@@ -24,8 +24,10 @@ You can click the Preview link to take a look at your changes.
 ![portfolio-sev-zero](https://user-images.githubusercontent.com/43040195/166671114-eba0fa4e-baa1-46a2-9b90-c1b28fd384f1.jpg)
 
 **I co-founded a game porting studio** - Archive link http://web.archive.org/web/20110830223110/http://www.lemonteam.com/home
+
 ![portfolio-lemon-team](https://user-images.githubusercontent.com/43040195/166673477-98520d90-050f-4a49-a4f4-b4abe025f5c8.jpg)
 
 **SunAge RTS** http://www.vertex4.com/sunage/
+
 ![portfolio-sunage](https://user-images.githubusercontent.com/43040195/166669250-02b34d35-aba3-4d28-9b55-b873e3385090.jpg)
 
